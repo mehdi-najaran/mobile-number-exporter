@@ -2,9 +2,8 @@
 
 /**
  * Plugin Name: دریافت خروجی از شماره کاربران
- * Plugin URI: https://tarahimo.com/
  * Description: این پلاگین به شما کمک میکند تا به راحتی یک خروجی از کاربران سایتتون دریافت کنید 
- * Version: 1.1
+ * Version: 1..0.0
  * Author: مهدی نجاران
  * Author URI: https://mehdi-najaran.ir/
  */
