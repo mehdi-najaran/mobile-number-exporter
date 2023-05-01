@@ -24,4 +24,4 @@ This is it!
 <hr>
 
 <strong>contact us :</strong>
-<a href="https://t.me/Mehdi_najaran" rel="nofollow">telegram : @mehdi_najaran</a>
+<a href="https://t.me/Mehdi_najaran" rel="nofollow">@mehdi_najaran</a>
