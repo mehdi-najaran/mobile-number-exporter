@@ -20,3 +20,8 @@ This is it!
 * In the WordPress admin menu
 * A new sub-menu in the users menu was created under the title of bank numbers
 * Click on it and access the plugin
+
+<hr>
+
+<strong>contact us :</strong>
+<a href="https://t.me/Mehdi_najaran" rel="nofollow">telegram : @mehdi_najaran</a>
