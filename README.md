@@ -1,7 +1,7 @@
 The lightest and most convenient WordPress plugin for extracting information from site users in the world of WordPress ❤️
 <br>
-<strong>Developer :</strong> <a href="https://mehdi-najaran.ir/" rel="nofollow">mehdi najaran</a>
-<br><br>
+
+<hr>
 
 <strong>install steps :</strong>
 1. Download the plugin file in ZIP format from GitHub.
@@ -13,6 +13,8 @@ The lightest and most convenient WordPress plugin for extracting information fro
 7. After installing the plugin, click on "Activate Plugin" to activate it.
 
 This is it!
+
+<hr>
 
 <strong>Access to the plugin :</strong>
 * In the WordPress admin menu
